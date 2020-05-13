@@ -1,0 +1,4 @@
+wheel
+tflearn==0.3.2
+tensorflow==1.13.2
+gym
